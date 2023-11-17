@@ -1,0 +1,34 @@
+h1, h2 {
+    color: white;
+    background-color: black;
+    font-weight: bold;
+    margin-left: 65px;
+    width: 1000px;
+    box-sizing: border-box;
+}
+.imagejpg {
+    padding: 0px 0px 25px 65px;
+}
+.anchor-links {
+    padding-left: 65px;
+}
+
+.final-links {
+    padding-left: 65px;
+}
+
+P {
+    padding-left: 65px;
+    width: 1008px;
+    height: 50px;
+    top: 1109px;
+    left: 65px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+li::marker {
+    content: '◉ ';
+    font-size: 1.2em;
+}
+
+
